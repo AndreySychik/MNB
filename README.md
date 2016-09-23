@@ -1,2 +1,2 @@
-#Money NoteBook
+#MNB - Money NoteBook
 #TRiTPO
